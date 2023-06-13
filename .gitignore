@@ -1,1 +1,7 @@
 *.pdf
+abc.ipynb
+demo.ipynb
+demo.py
+.vscode
+.DS_Store
+
