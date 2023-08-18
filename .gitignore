@@ -5,4 +5,5 @@ demo.py
 .vscode
 .DS_Store
 /sort
-
+*.html
+*.zip
